@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"s3","Source":"../modules/s3_bucket","Dir":"../modules/s3_bucket"},{"Key":"s3.s3_bucket","Source":"git@github.com:softrams-iac/terraform-aws-s3-legacy.git//?ref=v1.0.17","Dir":".terraform/modules/s3.s3_bucket"}]}
